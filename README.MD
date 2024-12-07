@@ -31,3 +31,10 @@ Links of the sensors and components used in the project
 * [Water Sensor](https://projecthub.arduino.cc/daryllqayyim/water-sensor-basic-13d33f)
 * [Jumper Wires](https://www.amazon.com/cables-multicolor-alambre-tableros-arruinar/dp/B01EV70C78/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.tjHxIQLJsk16_0YVtUGN6S6iuxj4sNk3ew3kIjjT561kWJ5SlaPqDd4vrZBoiJhbAzAv2h4HIsi3ns3Zpsw1vNU4cqjM524hnuiasxKNRPQR48hGgOEkilolw7PmeiIchSA-3mefEdhgU0isHnihgT3r7QDmk9qhbJAoLW47NXKUyEZY8bBrjaylCRisSSHoPAj9tYzfOQF_1KeQRM-oaPr5y4Xg9mVNXWbVw2Cm3wg.3SRGGaHwQFv4ukcheac6vhxEJ36t0uT-sLK9OL7PZX4&dib_tag=se&keywords=jumper+wires&qid=1733546371&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
+## Circuit Diagram
+
+<p align="center">
+    <img alt="Circuit Diagram" src="imgs/circuit.jpeg" width="850" height="410"/>
+</p>
+
+
